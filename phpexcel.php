@@ -2,7 +2,7 @@
 /*
 Plugin Name: PHPExcel Library
 Plugin URI: 
-Description: Provides access to the PHPExcel library
+Description: Provides the PHPExcel library to other plugins and themes.
 Version: 1.8.0
 Author: Dennis Wallace (plugin), PHPExcel (library)
 Author URI: http://www.codeplex.com/PHPExcel
