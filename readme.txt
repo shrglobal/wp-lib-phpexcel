@@ -2,7 +2,7 @@
 Contributors: achbed
 Tags: library, excel, api
 Requires at least: 3.0.0
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: trunk
 License: LGPL v2.1
 License URI: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
